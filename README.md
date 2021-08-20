@@ -1,5 +1,5 @@
 ## Resume
-_This web app is part of the Pragma's Cup 2021-08-19. Maded by RAGZ._
+_This web app is part of the Pragma's Cup 2021-08-19. Maded only by RAGZ._
 
 ## Available Scripts
 _Clone or download the repo first, and then continue_
